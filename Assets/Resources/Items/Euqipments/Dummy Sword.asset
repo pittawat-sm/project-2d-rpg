@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9923a94d58a9d544689803bacaa44880, type: 3}
+  m_Name: Dummy Sword
+  m_EditorClassIdentifier: 
+  name: Dummy Sword
+  slotImage: {fileID: 21300000, guid: 04e068f118719024db2980d39e245280, type: 3}
+  droppedImage: {fileID: 21300000, guid: 55af2761a613c4545a12b4b7482b19b8, type: 3}
+  tier: 0
+  type: 4
+  edible: 0
+  destroyOnDrop: 1
+  destroyTime: 120
+  spoilable: 0
+  spoilPoint: 0
+  spoilItem: {fileID: 0}
+  buyPrice: 1000
+  sellable: 1
+  fullPrice: 500
+  stalePrice: 0
+  droppedSound: {fileID: 0}
+  moveSound: {fileID: 0}
+  breakable: 0
+  durable: 0
+  durableDrainPoint: 0
+  atkAttr:
+    damage: 10
+    attackSpeed: 1
+    attackRange: 5
+    criRate: 0.05
+    criDamage: 2
+    bluntProcRate: 0
+    slashProcRate: 0
+    stabProcRate: 0
+    chopProcRate: 0
+    mineProcRate: 0
+    lightningDmg: 0
+    waterDmg: 0
+    fireDmg: 0
+    earthDmg: 0
+    windDmg: 0
+    darkDmg: 0
+    lightDmg: 0
+  defAttr:
+    defense: 0
+    blockRate: 0
+    bluntDmgReduction: 0
+    slashDmgReduction: 0
+    stabDmgReduction: 0
+    chopDmgReduction: 0
+    mineDmgReduction: 0
+    lightningRes: 0
+    waterRes: 0
+    fireRes: 0
+    earthRes: 0
+    windRes: 0
+    darkRes: 0
+    lightRes: 0
+  bodyAttr:
+    maxHealth: 0
+    healthRegenRate: 0
+    maxStamina: 0
+    staminaRegenRate: 0
+    moveSpeed: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5bb791144292ad4986e59b6962e7cdb, type: 3}
+  m_Name: Satchel
+  m_EditorClassIdentifier: 
+  name: Satchel
+  description: 
+  slotImage: {fileID: 0}
+  droppedImage: {fileID: 0}
+  tier: 0
+  type: 0
+  edible: 0
+  destroyOnDrop: 1
+  destroyTime: 120
+  spoilable: 0
+  spoilPoint: 0
+  spoilItem: {fileID: 0}
+  buyPrice: 0
+  sellable: 0
+  fullPrice: 0
+  stalePrice: 0
+  droppedSound: {fileID: 0}
+  moveSound: {fileID: 0}
+  UIResourcePath: 
